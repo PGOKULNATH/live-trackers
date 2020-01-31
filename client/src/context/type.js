@@ -1,0 +1,15 @@
+export const LOGIN = 'LOGIN';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const LOGOUT = 'LOGOUT';
+export const REGISTER = 'REGISTER';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const ALERT = 'ALERT';
+export const CLEAR_ALERT = 'CLEAR_ALERT';
+export const CLEAR_ERROR = 'CLEAR_ERROR';
+export const USER_LOAD = 'USER_LOAD';
+export const USER_UPDATE = 'USER_UPDATE';
+export const USER_DELETE = 'USER_DELETE';
+export const USER_FAIL = 'USER_FAIL';
+export const ADD_INJURY = 'ADD_INJURY';
+export const INJURY_FAIL = 'INJURY_FAIL';
+export const DELETE_INJURY = 'DELETE_INJURY';
